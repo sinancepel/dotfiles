@@ -13,7 +13,7 @@ setw -g mouse-select-pane on
 # set -g mouse-resize-pane on
 
 # act like vim
-#setw -g mode-keys vi
+setw -g mode-keys vi
 
 # from <https://github.com/christoomey/vim-tmux-navigator>
 # Smart pane switching with awareness of vim splits
